@@ -6,6 +6,11 @@ HELLO
 --------------------
 My name is Kevin. I'm a Full Stack Developer.
 
+Projects
+----------------------
+The French Things
+a French/English translator with a relational database for storing and sorting words and phrases
+
 
 Tech Stack
 ----------------------
