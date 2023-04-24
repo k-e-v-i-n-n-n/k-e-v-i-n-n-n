@@ -6,12 +6,12 @@ My name is Kevin. I'm a Full Stack Developer.
 Tech Stack
 ----------------------
 
-<img href=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />
+<img srf=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />
 
 Connect
 ----------------------
-<a hreft=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
-<img href=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+<a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>
 
 
