@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 HELLO
 --------------------
 My name is Kevin. I'm a Full Stack Developer.
