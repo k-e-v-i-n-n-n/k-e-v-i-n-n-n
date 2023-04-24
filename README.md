@@ -6,7 +6,7 @@ My name is Kevin. I'm a Full Stack Developer.
 Tech Stack
 ----------------------
 
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width=100px height=100px />
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width=50px height=50px />
 
 Connect
 ----------------------
