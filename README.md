@@ -1,7 +1,8 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<h1>HELLO</h1>
+
+<h2>HELLO</h2>
 <p>My name is Kevin. I'm a Full Stack Developer.</p>
 
 
