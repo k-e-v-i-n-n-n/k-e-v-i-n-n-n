@@ -39,12 +39,12 @@ Connect
 ----------------------
 
 <div className="contact">
-  <div>
+  <div>heyy
     <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
         <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
   </div>
-  <div>
+  <div>heyyy
     <a href="mailto:kevinbreid@yahoo.com">
         <p> :email: Email Me</p>
     </a>
