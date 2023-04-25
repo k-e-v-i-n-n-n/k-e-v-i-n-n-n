@@ -6,8 +6,7 @@
 <p>My name is Kevin. I'm a Full Stack Developer.</p>
 
 
-PROJECTS
-----------------------
+<h2>PROJECTS</h2>
 <div lassName="tech-stack">
 <p>The French Things</p> <a href=https://the-french-things.onrender.com>Live Website</a> | <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a>
   </div>
@@ -15,10 +14,7 @@ PROJECTS
 <p>a French/English translator with a relational database for storing and sorting words and phrases</p>
 
 
-TECH STACK
-----------------------
-
-
+<h2>TECH STACK</h2>
 
 <div className="tech-stack">
 
