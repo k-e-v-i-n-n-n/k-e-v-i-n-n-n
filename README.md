@@ -9,7 +9,7 @@ My name is Kevin. I'm a Full Stack Developer.
 PROJECTS
 ----------------------
 <div lassName="tech-stack">
-<p>The French Things</p> <a href=https://the-french-things.onrender.com>Live Website</a> | <a>Repo</a>
+<p>The French Things</p> <a href=https://the-french-things.onrender.com>Live Website</a> | <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a>
   </div>
 
 <p>a French/English translator with a relational database for storing and sorting words and phrases</p>
