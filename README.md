@@ -8,8 +8,10 @@ My name is Kevin. I'm a Full Stack Developer.
 
 PROJECTS
 ----------------------
-The French Things
-a French/English translator with a relational database for storing and sorting words and phrases
+
+<p>The French Things</p> <a href=https://the-french-things.onrender.com>Deployed</a> | <a>Repo</a>
+
+<p>a French/English translator with a relational database for storing and sorting words and phrases</p>
 
 
 TECH STACK
