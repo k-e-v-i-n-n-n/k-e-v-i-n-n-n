@@ -43,10 +43,9 @@ Connect
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>
    <div>
-  <a href="mailto:kevinbreid@yahoo.com">
-  
- :email: Email Me
-  </a>
+    <a href="mailto:kevinbreid@yahoo.com">
+           <p> :email: Email Me</p>
+   </a>
   </div>
   
   
