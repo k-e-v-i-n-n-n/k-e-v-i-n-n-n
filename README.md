@@ -40,6 +40,9 @@ Connect
 <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>
+  
+  <a href="mailto:kevinbreid@yahoo.com">:email: Send email</a>
+
 
 
 
