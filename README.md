@@ -40,14 +40,14 @@ Connect
 
 <div className="contact">
   <div>heyy
-    <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
+<!--     <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
         <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-    </a>
+    </a> -->
   </div>
   <div>heyyy
-    <a href="mailto:kevinbreid@yahoo.com">
+<!--     <a href="mailto:kevinbreid@yahoo.com">
         <p> :email: Email Me</p>
-    </a>
+    </a> -->
   </div>
   
   
