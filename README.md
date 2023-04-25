@@ -39,13 +39,15 @@ Connect
 ----------------------
 
 <div className="tech-stack">
-<a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-  </a>
-   <div>
-<!--     <a href="mailto:kevinbreid@yahoo.com"> -->
-           <p> :email: Email Me</p>
-<!--    </a> -->
+  <div>
+    <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
+        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+    </a>
+  </div>
+  <div>
+    <a href="mailto:kevinbreid@yahoo.com">
+        <p> :email: Email Me</p>
+    </a>
   </div>
   
   
