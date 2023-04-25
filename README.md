@@ -7,7 +7,7 @@
 
 
 <h2>PROJECTS</h2>
-<div lassName="tech-stack">
+<div className="tech-stack">
 <p>The French Things</p> <a href=https://the-french-things.onrender.com>Live Website</a> | <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a>
   </div>
 
@@ -16,7 +16,7 @@
 
 <h2>TECH STACK</h2>
 
-<div>
+<div className="tech-stack" >
 
    <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png width=30px height=30px />
                 
