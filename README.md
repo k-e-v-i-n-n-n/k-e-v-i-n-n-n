@@ -1,9 +1,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
-<body>
-HELLO
+<h1>HELLO</h1>
 --------------------
 My name is Kevin. I'm a Full Stack Developer.
 
@@ -58,6 +56,5 @@ CONNECT
   </div>
 
 
-</body>
 
 
