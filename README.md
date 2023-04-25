@@ -45,7 +45,8 @@ Connect
   
   <a href="mailto:kevinbreid@yahoo.com">
   
-  <div>:email: Email Me</a></div>
+  <div>:email: Email Me</div>
+  </a>
   
   
   </div>
