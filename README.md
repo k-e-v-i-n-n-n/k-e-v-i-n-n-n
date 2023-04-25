@@ -6,13 +6,13 @@ HELLO
 --------------------
 My name is Kevin. I'm a Full Stack Developer.
 
-Projects
+PROJECTS
 ----------------------
 The French Things
 a French/English translator with a relational database for storing and sorting words and phrases
 
 
-Tech Stack
+TECH STACK
 ----------------------
 
 
@@ -35,19 +35,19 @@ Tech Stack
                 
 </div>
 
-Connect
+CONNECT
 ----------------------
 
 <div className="contact">
-  <div>heyy
-<!--     <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
+  <div>
+    <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
         <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-    </a> -->
+    </a>
   </div>
-  <div>heyyy
-<!--     <a href="mailto:kevinbreid@yahoo.com">
+  <div>
+    <a href="mailto:kevinbreid@yahoo.com">
         <p> :email: Email Me</p>
-    </a> -->
+    </a>
   </div>
   
   
