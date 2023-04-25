@@ -13,7 +13,7 @@
 <p>The French Things</p> <a href=https://the-french-things.onrender.com>Live Website</a> | <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a>
   </div>
 
-<p>a French/English translator with a relational database for storing and sorting words and phrases</p>
+<p>A French•English translator with a relational database for storing and sorting words and phrases</p>
 
 
 <h2>TECH STACK</h2>
