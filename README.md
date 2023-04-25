@@ -38,7 +38,7 @@ Tech Stack
 Connect
 ----------------------
 
-<div className="tech-stack">
+<div className="contact">
   <div>
     <a href=https://www.linkedin.com/in/k-e-v-i-n-n-n/> 
         <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
