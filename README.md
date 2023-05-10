@@ -10,7 +10,7 @@
 
 <h2>PROJECTS</h2>
 <div class="tech-stack">
-<p>The French Things</p> <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a>
+<p>The French Things</p> <a href=https://github.com/k-e-v-i-n-n-n/final-project-5.git >Repo</a> <a href=https://the-french-things.onrender.com>Live Site</a>
   </div>
 
 <p>A French•English translator with a relational database for storing and sorting words and phrases</p>
