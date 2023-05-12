@@ -5,7 +5,14 @@
 </head>
 
 <h2>HELLO</h2>
-<p>My name is Kevin. I'm a Full Stack Developer.</p>
+<p>I’m a full stack software engineer whose love for technology can be traced back to a laptop I had when I was ten years old. It was massive. It was incredibly slow. If something went wrong, it was very hard to fix. But I had one game on a floppy disk, and I was both determined and enchanted by the idea of this machine and getting this game to work. This is where my life-long fascination with programming and technology started. 
+
+Later I would become obsessed with music and foreign languages, studying both at university. I became fluent in French, and was enthralled with understanding how languages work and how the pieces fit together — how did the patterns combine to create a meaning bigger than each part?
+
+Eventually, all of these things would connect in my love for coding and writing in the languages of computers. Communicating with machines and building meaning and complex function from simple lines of code has been an incredibly rewarding journey.
+
+I’m well versed in Object Oriented Programming, React, JavaScript, Ruby on Rails, ActiveRecord, PostgreSQL, HTML, and CSS.
+</p>
 
 
 <h2>PROJECTS</h2>
